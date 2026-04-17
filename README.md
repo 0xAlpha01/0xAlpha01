@@ -1,7 +1,6 @@
 # 💫 Abdulmueez
 🔭 I’m currently working as a full stack web development<br><br>👯 I’m looking to collaborate on Open source projects and realworld fullstack apps<br><br>🤝 I’m looking for assitance with Advanced backend architecture and blockchain development<br><br>🌱 I’m currently learning Blockchain, smart contracts, and scalable system design<br><br>⚡  I enjoy turning ideas into realworld applications through code 🚀
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ngwebworks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/website-developer-ng) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NGWebWork) 
 
