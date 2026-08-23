@@ -94,25 +94,7 @@ Currently Exploring
 
 ---
 
-## 📌 Featured Projects
 
-### 🔥 MediaVault
-
-A backend-focused media management platform built around **Go, PostgreSQL, authentication, and REST APIs**.
-
-### ⚡ DevPulse
-
-A developer-focused platform designed to analyze **GitHub repositories and codebase health**.
-
-### 💳 SpendWise
-
-A fintech project focused on **personal finance management and intelligent spending insights**.
-
-### 📝 Task Management API
-
-A full-stack task management application with a **Go/Node backend, database persistence, authentication, and React frontend**.
-
----
 
 ## 📊 GitHub Stats
 
