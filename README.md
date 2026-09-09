@@ -88,7 +88,6 @@ Currently Exploring
 ├── Distributed Systems
 ├── Blockchain
 ├── Solidity
-└── Rust
 ```
 
 ---
