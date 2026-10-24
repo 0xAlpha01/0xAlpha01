@@ -23,31 +23,29 @@ I'm currently focused on becoming a stronger **backend and full-stack engineer**
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=go,ts,js,py&theme=dark)
+![Languages](https://skillicons.dev/icons?i=go,ts,js,py,html,css&theme=dark)
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,redux,tailwind,html,css&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,html,css&theme=dark)
 
 **Backend**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,go,prisma&theme=dark)
-
-Gin · Mongoose · JWT · REST APIs
+![Backend](https://skillicons.dev/icons?i=nodejs,express,go,prisma,supabase&theme=dark)
 
 **Databases**
 
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb&theme=dark)
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark)
 
 **DevOps & Tools**
 
 ![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,vercel,postman,vscode&theme=dark)
 
-Docker Compose · CI/CD · Render · Railway
+**Concepts**
 
 **🌱 Currently Learning**
 
-![Learning](https://skillicons.dev/icons?i=cs,dotnet&theme=dark)
+![Learning](https://skillicons.dev/icons?i=cpp,pytorch,tensorflow&theme=dark)
 
 ## 💻 Engineering Focus
 
