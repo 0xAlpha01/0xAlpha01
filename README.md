@@ -41,11 +41,6 @@ I'm currently focused on becoming a stronger **backend and full-stack engineer**
 
 ![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,vercel,postman,vscode&theme=dark)
 
-**Concepts**
-
-**🌱 Currently Learning**
-
-![Learning](https://skillicons.dev/icons?i=cpp,pytorch,tensorflow&theme=dark)
 
 ## 💻 Engineering Focus
 
