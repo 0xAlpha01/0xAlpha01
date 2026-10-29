@@ -21,13 +21,15 @@ FOCUS     Go · Gin · REST APIs · System Design · Databases · Full-Stack
 
 ## GitHub Activity
 
+## 📊 GitHub Activity
+
 <p align="center">
-  <a href="https://github.com/0xAlpha01">
-    <img src="https://github-readme-stats.vercel.app/api?username=0xAlpha01&amp;show_icons=true&amp;hide_border=true&amp;bg_color=070a0e&amp;title_color=eaf2f8&amp;text_color=9aabb9&amp;icon_color=39c5f3" alt="GitHub statistics for 0xAlpha01" height="155">
-  </a>
-  <a href="https://github.com/0xAlpha01">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAlpha01&amp;layout=compact&amp;hide_border=true&amp;bg_color=070a0e&amp;title_color=eaf2f8&amp;text_color=9aabb9" alt="Most used languages for 0xAlpha01" height="155">
-  </a>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=0xAlpha01&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xAlpha01&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=0xAlpha01&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
@@ -36,9 +38,6 @@ FOCUS     Go · Gin · REST APIs · System Design · Databases · Full-Stack
   </a>
 </p>
 
-## Contact
-
-[GitHub](https://github.com/0xAlpha01) · [LinkedIn](https://www.linkedin.com/in/ngwebworks)
 
 <p align="center">
   <img src="./assets/footer.svg" alt="Alpha01 — systems in motion" width="100%">
