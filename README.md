@@ -14,7 +14,7 @@ FOCUS     Go · Gin · REST APIs · System Design · Databases · Full-Stack
 
 ## 🛠️ Skills & Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,python,html,css,postgres" alt="JavaScript, TypeScript, Go, Python, HTML, CSS, SQL" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,postgres" alt="JavaScript, TypeScript, Go, Python, HTML, CSS, SQL" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,express,fastapi,tailwind" alt="React.js, Next.js, Express.js, Gin, FastAPI, Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=redux,vite,threejs" alt="Redux, Vite, Three.js" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,go" alt="Node.js, Express.js, Go" />
