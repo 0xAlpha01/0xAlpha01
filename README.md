@@ -43,12 +43,6 @@ FOCUS     Go · Gin · REST APIs · System Design · Databases · Full-Stack
   <img width="70%" src="https://streak-stats.demolab.com/?user=0xAlpha01&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/0xAlpha01">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xAlpha01&amp;bg_color=070a0e&amp;color=9aabb9&amp;line=39c5f3&amp;point=eaf2f8&amp;area=true&amp;hide_border=true" alt="Contribution activity graph for 0xAlpha01" width="100%">
-  </a>
-</p>
-
 
 <p align="center">
   <img src="./assets/footer.svg" alt="Alpha01 — systems in motion" width="100%">
