@@ -35,11 +35,7 @@ FOCUS     Go · Gin · REST APIs · System Design · Databases · Full-Stack
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=0xAlpha01&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Statistics" />
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xAlpha01&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=0xAlpha01&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
