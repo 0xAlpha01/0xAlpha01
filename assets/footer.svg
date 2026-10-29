@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="148" viewBox="0 0 1200 148" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Alpha01 — Systems in motion</title>
+  <desc id="desc">A dark technical footer with a cyan orbital line, fine grid, and a small moving point.</desc>
+  <defs>
+    <pattern id="footerGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#9BB5C5" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="148" rx="12" fill="#070A0E"/>
+  <rect width="1200" height="148" rx="12" fill="url(#footerGrid)"/>
+  <path d="M0 1H1200" stroke="#39C5F3" stroke-opacity=".65"/>
+  <path d="M34 79H296C339 79 349 47 390 47H663C710 47 712 104 763 104H1166" stroke="#39C5F3" stroke-opacity=".48" stroke-width="1.2"/>
+  <path d="M34 88H296C339 88 349 56 390 56H663C710 56 712 113 763 113H1166" stroke="#9BB5C5" stroke-opacity=".17"/>
+  <circle cx="34" cy="79" r="3" fill="#39C5F3"/>
+  <circle cx="1166" cy="104" r="3" fill="#39C5F3"/>
+  <circle cx="34" cy="79" r="2" fill="#EAF2F8">
+    <animateMotion dur="12s" repeatCount="indefinite" path="M0 0H262C305 0 315 -32 356 -32H629C676 -32 678 25 729 25H1132"/>
+  </circle>
+  <text x="36" y="119" fill="#EAF2F8" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2.4">0xA / END OF TRANSMISSION</text>
+  <text x="1164" y="119" text-anchor="end" fill="#718391" font-family="Consolas, Menlo, monospace" font-size="10" letter-spacing="1.5">KEEP BUILDING_</text>
+  <circle cx="650" cy="79" r="1.5" fill="#A9B8C4"/>
+  <circle cx="775" cy="104" r="1.5" fill="#A9B8C4"/>
+</svg>

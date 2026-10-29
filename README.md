@@ -1,95 +1,45 @@
-# 👋 Alpha001
+<p align="center">
+  <img src="./assets/hero.svg" alt="Alpha01 — Backend Engineer · Full-Stack Developer" width="100%">
+</p>
 
-### Software Developer | Software Engineer | Problem Solver
+## About
 
-I build **scalable web applications, backend systems, APIs, and developer-focused products**.
-
-I'm currently focused on becoming a stronger **backend and full-stack engineer**, with a particular interest in **Go, system design, databases, APIs, and scalable architecture**.
-
----
-
-## 🚀 What I'm Currently Building
-
-* 🔥 Backend systems with **Go**
-* ⚡ REST APIs and production-ready services
-* 🗄️ PostgreSQL database applications
-* 🌐 Full-stack applications with **React + TypeScript**
-* 🔐 Authentication & authorization systems
-* 🧩 SaaS platforms and developer tools
-* 💳 Fintech and payment-related applications
-
----
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Languages](https://skillicons.dev/icons?i=go,ts,js,py,html,css&theme=dark)
-
-**Frontend**
-
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,html,css&theme=dark)
-
-**Backend**
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express,go,prisma,supabase&theme=dark)
-
-**Databases**
-
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark)
-
-**DevOps & Tools**
-
-![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,vercel,postman,vscode&theme=dark)
-
-
-## 💻 Engineering Focus
+I build backend systems, REST APIs, and full-stack applications. Currently focused on Go, system design, databases, and scalable software architecture.
 
 ```text
-Backend Engineering
-├── Go (Gin) and Node.js (Express) REST APIs
-├── JWT authentication and protected routes
-├── Relational database design with PostgreSQL
-├── Payments integration (Paystack)
-└── Real-time features and notifications
-
-Full-Stack Development
-├── React + TypeScript + Tailwind CSS frontends
-├── Go / Node.js backends
-├── PostgreSQL / MongoDB data layer
-└── Deployed on Vercel, Render and Railway
-
-DevOps
-├── Containerised apps with Docker and Docker Compose
-├── CI/CD pipelines
-└── Git and GitHub workflows
+IDENTITY  Alpha01 / 0xAlpha01
+ROLE      Software Developer · Backend Engineer · Problem Solver
+FOCUS     Go · Gin · REST APIs · System Design · Databases · Full-Stack
 ```
 
-## 📊 GitHub Stats
+## Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAlpha01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+**Backend:** Go · Gin · Node.js · Express · REST APIs  
+**Frontend:** TypeScript · JavaScript · React · Next.js · Tailwind CSS  
+**Data:** PostgreSQL · MongoDB · Redis  
+**Tools:** Git · Docker
 
-![Streak](https://streak-stats.demolab.com/?user=0xAlpha01&theme=tokyonight&hide_border=true)
+## GitHub Activity
 
----
+<p align="center">
+  <a href="https://github.com/0xAlpha01">
+    <img src="https://github-readme-stats.vercel.app/api?username=0xAlpha01&amp;show_icons=true&amp;hide_border=true&amp;bg_color=070a0e&amp;title_color=eaf2f8&amp;text_color=9aabb9&amp;icon_color=39c5f3" alt="GitHub statistics for 0xAlpha01" height="155">
+  </a>
+  <a href="https://github.com/0xAlpha01">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAlpha01&amp;layout=compact&amp;hide_border=true&amp;bg_color=070a0e&amp;title_color=eaf2f8&amp;text_color=9aabb9" alt="Most used languages for 0xAlpha01" height="155">
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/0xAlpha01">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xAlpha01&amp;bg_color=070a0e&amp;color=9aabb9&amp;line=39c5f3&amp;point=eaf2f8&amp;area=true&amp;hide_border=true" alt="Contribution activity graph for 0xAlpha01" width="100%">
+  </a>
+</p>
 
-## 🎯 Current Goal
+## Contact
 
-> **Build. Break. Debug. Learn. Repeat.**
+[GitHub](https://github.com/0xAlpha01) · [LinkedIn](https://www.linkedin.com/in/ngwebworks)
 
-I'm continuously improving my skills in **backend engineering, system design, databases, and full-stack development** by building real-world projects.
-
----
-
-## 🤝 Let's Connect
-
-I'm open to remote software engineering roles, freelance projects and open-source collaboration. I'm especially interested in:
-
-* 💻 Backend Engineering with Go and Node.js
-* 🌐 Full-Stack Development
-* 🚀 Open Source
-* ☁️ Cloud & Infrastructure
-
----
-
-### ⚡ Code. Build. Ship. Repeat.
+<p align="center">
+  <img src="./assets/footer.svg" alt="Alpha01 — systems in motion" width="100%">
+</p>
