@@ -37,10 +37,10 @@ FOCUS     Go · Gin · REST APIs · System Design · Databases · Full-Stack
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xAlpha01&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
+      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xAlpha01&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
     </td>
     <td align="center" width="50%">
-      <img width="70%" src="https://streak-stats.demolab.com/?user=0xAlpha01&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=0xAlpha01&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
     </td>
   </tr>
 </table>
