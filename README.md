@@ -9,7 +9,7 @@ I build backend systems, REST APIs, and full-stack applications. Currently focus
 ```text
 IDENTITY  Alpha01 / 0xAlpha01
 ROLE      Software Developer · Backend Engineer · Problem Solver
-FOCUS     Go · Gin · REST APIs · System Design · Databases · Full-Stack
+FOCUS     Go · Gin · Python · REST APIs · System Design · Databases · Full-Stack
 ```
 
 ## 🛠️ Skills & Tech Stack
